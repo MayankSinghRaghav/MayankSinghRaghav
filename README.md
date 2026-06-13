@@ -12,16 +12,12 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://msr-portfolio-iota.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayanksinghraghav/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-6741d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankSinghRaghav)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7c3aed&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=6741d9&label=Followers&logo=github&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?color=7c3aed&label=Stars&logo=github&style=flat-square&affiliations=OWNER)
 
 </div>
 
