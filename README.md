@@ -10,18 +10,6 @@
 ![NextLeap](https://img.shields.io/badge/NextLeap-PM_Fellow-7c3aed?style=flat-square&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/📍_Gurugram-India-4f46e5?style=flat-square)
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://msr-portfolio-iota.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayanksinghraghav/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-6741d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanksinghraghav2083@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankSinghRaghav)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MayankSinghRaghav&color=7c3aed&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/MayankSinghRaghav?color=6741d9&label=Followers&logo=github&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/MayankSinghRaghav?color=7c3aed&label=Stars&logo=github&style=flat-square&affiliations=OWNER)
 
 </div>
 
