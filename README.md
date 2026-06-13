@@ -27,7 +27,7 @@
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
 ```
 AI Product Manager with a CS foundation — I bridge LLM capabilities and product execution.
@@ -209,7 +209,7 @@ Four AI products shipped with consistent PM rigor: each started with user resear
 ## 💼 Experience
 
 ### 🏢 Product & Technical Lead — WCO Global / Elle Global
-**Football Analytics · Aug 2025 – Apr 2026**
+**Football Analytics · Aug 2025 – May 2026**
 
 Led end-to-end product lifecycle for a multi-camera football analytics system — from PRD authoring through edge hardware deployment.
 
@@ -324,14 +324,6 @@ Scoped and shipped an AI chatbot for rural communities — from customer discove
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MayankSinghRaghav&theme=nord&column=7&margin-w=10&margin-h=15&no-bg=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
@@ -381,7 +373,7 @@ currently:
       - "Early-stage AI startups"
       - "Mid-size product companies"
     location: "Gurugram, India | Open to Remote"
-    available_from: "July 2026"
+    available_from: "June 2026"
 ```
 
 ---
