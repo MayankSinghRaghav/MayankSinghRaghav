@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=220&section=header&text=Mayank&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20Manager%20%7C%20LLM%20Builder%20%7C%20Shipped%20AI%20Products&descAlignY=56&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=220&section=header&text=Mayank%20Singh%20Raghav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20Manager%20%7C%20LLM%20Builder%20%7C%20Shipped%20AI%20Products&descAlignY=56&descAlign=50" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&background=00000000&center=true&vCenter=true&width=750&lines=AI+Product+Manager+%7C+LLM+Pipelines+%7C+RAG+Systems;Building+AI-native+products+that+ship+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+Edge+Computing;From+0+to+1+%E2%80%94+PRD+to+Production;NextLeap+PM+Fellow+%7C+Gurugram%2C+India)](https://git.io/typing-svg)
 
@@ -10,12 +10,24 @@
 ![NextLeap](https://img.shields.io/badge/NextLeap-PM_Fellow-7c3aed?style=flat-square&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/📍_Gurugram-India-4f46e5?style=flat-square)
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://msr-portfolio-iota.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayanksinghraghav/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-6741d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanksinghraghav2083@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankSinghRaghav)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MayankSinghRaghav&color=7c3aed&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/MayankSinghRaghav?color=6741d9&label=Followers&logo=github&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/MayankSinghRaghav?color=7c3aed&label=Stars&logo=github&style=flat-square&affiliations=OWNER)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
 ```
 AI Product Manager with a CS foundation — I bridge LLM capabilities and product execution.
@@ -93,7 +105,7 @@ I don't just spec AI products. I build, deploy, and measure them.
 | **AI Layer** | LLM-powered sentiment clustering · feature extraction · theme detection |
 | **Security** | API key isolation · input sanitization · rate-limited pipeline |
 | **Impact** | Cuts manual review analysis from hours to minutes |
-| **Repository** | [View on GitHub →](https://github.com/YOUR_GITHUB_USERNAME/groww-pulsator) |
+| **Repository** | [View on GitHub →](https://github.com/MayankSinghRaghav/groww-pulsator) |
 
 Groww Pulsator demonstrates the full AI PM loop: product hypothesis → technical build → deployed app → measurable outcome. Built as part of the NextLeap PM Fellowship's Learn in Public Challenge 4, it auto-clusters user feedback into product themes and generates PM-ready summaries that any product team can act on immediately.
 
@@ -116,9 +128,9 @@ Groww Pulsator demonstrates the full AI PM loop: product hypothesis → technica
 | **AI Layer** | Object detection · movement tracking · performance heuristics |
 | **Security** | Edge-isolated inference · no raw video egress |
 | **Impact** | End-to-end sports AI: data pipeline → insight dashboard |
-| **Repository** | [View on GitHub →](https://github.com/YOUR_GITHUB_USERNAME/footiq) |
+| **Repository** | [View on GitHub →](https://github.com/MayankSinghRaghav/footiq) |
 
-FootIQ is the flagship project — a full-stack sports intelligence system built from the ground up. Combines computer vision for player tracking with an analytics layer that surfaces match insights. Inspired by production-grade work at WCO Global, it demonstrates AI PM execution at the infrastructure level, not just the spec level.
+FootIQ is the flagship project — a full-stack sports intelligence system built from the ground up. Combines computer vision for player tracking with an analytics layer that surfaces match insights. Inspired by production-grade work at WCO Global / Elle Global, it demonstrates AI PM execution at the infrastructure level, not just the spec level.
 
 </details>
 
@@ -129,18 +141,18 @@ FootIQ is the flagship project — a full-stack sports intelligence system built
 
 <br/>
 
-> Production Next.js application powered by a RAG pipeline to answer mutual fund queries with grounded, document-sourced responses.
+> Production Next.js + FastAPI application powered by a RAG pipeline to answer mutual fund queries with grounded, document-sourced responses — rearchitected under time pressure for free-tier infrastructure.
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Next.js · TypeScript · RAG · Vector DB · Tailwind CSS |
-| **Architecture** | Document ingestion → embedding → retrieval → generation |
-| **Scale** | Multi-turn financial Q&A with source attribution |
+| **Stack** | Next.js · TypeScript · FastAPI · Groq LLM · Vector DB · Tailwind CSS |
+| **Architecture** | Scraping → chunking → embeddings → retrieval → generation |
 | **AI Layer** | Full RAG pipeline — hallucination-resistant, document-grounded answers |
-| **Security** | Document-scoped retrieval · no external data leakage |
-| **Repository** | [View on GitHub →](https://github.com/YOUR_GITHUB_USERNAME/mf-faq-chatbot) |
+| **Security** | PII filters · document-scoped retrieval · no external data leakage |
+| **Status** | Deployed on free-tier infra (Vercel + Render) |
+| **Repository** | [View on GitHub →](https://github.com/MayankSinghRaghav/mf-faq-chatbot) |
 
-Uses a full RAG architecture to ensure responses are grounded in real financial documents — a critical requirement in regulated fintech contexts. Demonstrates LLM product execution beyond demos: real architecture, real constraints.
+Built during the NextLeap PM Fellowship under real infrastructure constraints. The full pipeline — scraping, chunking, embeddings, LLM integration, and PII filtering — was rearchitected mid-build for free-tier deployment. Demonstrates LLM product execution under pressure.
 
 </details>
 
@@ -151,40 +163,44 @@ Uses a full RAG architecture to ensure responses are grounded in real financial 
 
 <br/>
 
-> AI copilot for real-time game strategy assistance — designed from full PRD through interactive wireframe to prototype.
+> AI copilot for real-time game strategy assistance — full PRD from market sizing through GTM roadmap and monetization model.
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | React · TypeScript · LLM API |
-| **PM Artifacts** | Full PRD · Interactive Wireframe Kit · User Research Synthesis |
+| **Stack** | React · TypeScript · RAG + LLM Architecture |
+| **Market** | **$4.7B** market sizing · 3 JTBD personas |
+| **PM Artifacts** | Full PRD · User Stories with Acceptance Criteria · Risk Matrix · GTM Roadmap |
 | **AI Layer** | Real-time LLM strategy suggestions · context-aware guidance |
-| **PM Depth** | User personas · MoSCoW prioritization · technical architecture mapping |
-| **Impact** | Demonstrates full PM lifecycle: concept → spec → prototype |
-| **Repository** | [View on GitHub →](https://github.com/YOUR_GITHUB_USERNAME/gamesense-ai) |
+| **PM Depth** | MoSCoW prioritization · 4-phase GTM · monetization model |
+| **Repository** | [View on GitHub →](https://github.com/MayankSinghRaghav/gamesense-ai) |
 
-A PM-led product build demonstrating the full concept-to-wireframe pipeline. Includes detailed PRD with functional and non-functional requirements, user research synthesis, and an interactive prototype grounded in real LLM capability mapping.
+A PM-led product build with a $4.7B TAM analysis, 3 validated JTBD personas, and a 4-phase GTM roadmap with monetization model. Demonstrates the full PM lifecycle from market validation through production-ready spec.
 
 </details>
 
 ---
 
 <details>
-<summary><b>💓 PulseAI — Health Intelligence Platform</b></summary>
+<summary><b>🍽️ Zomato AI Recommender + 3 More AI Products</b></summary>
 
 <br/>
 
-> AI-powered health monitoring platform — full PRD and wireframe kit demonstrating AI PM execution in the healthtech vertical.
+> Four AI digital products shipped end-to-end: user research, product vision, technical flows, and measurable outcomes.
+
+| Product | Stack | Key Result |
+|---------|-------|-----------|
+| **Zomato AI Recommender** | Streamlit · GPT API · Python | Personalized restaurant discovery with LLM reasoning |
+| **HealthGuard** | FastAPI · ViT · Python | Visual health monitoring with Vision Transformer |
+| **TalentScout** | FastAPI · GPT API · Python | AI-powered talent matching pipeline |
+| **Trend Predictor** | Prophet · Python · Streamlit | **12% forecast accuracy improvement** |
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | React · LLM API · Figma · TypeScript |
-| **PM Artifacts** | Full PRD · Interactive Wireframe Kit |
-| **AI Layer** | LLM-powered health insight generation · anomaly detection |
-| **PM Depth** | User journeys · feature prioritization · edge case mapping |
-| **Impact** | PM-quality deliverables shipped across a new vertical |
-| **Repository** | [View on GitHub →](https://github.com/YOUR_GITHUB_USERNAME/pulseai) |
+| **Aggregate Impact** | 30% latency reduction across pipelines · 12% forecast accuracy gain |
+| **PM Depth** | User research · product vision · flow definition for each product |
+| **Repository** | [View on GitHub →](https://github.com/MayankSinghRaghav) |
 
-Built through the full PM workflow — user personas, problem framing, MoSCoW prioritization, and an interactive wireframe kit. Demonstrates ability to ship PM-quality artifacts across verticals beyond core domain expertise.
+Four AI products shipped with consistent PM rigor: each started with user research and product vision before a single line of code. Demonstrates breadth across recommendation, health tech, talent, and forecasting verticals.
 
 </details>
 
@@ -192,62 +208,66 @@ Built through the full PM workflow — user personas, problem framing, MoSCoW pr
 
 ## 💼 Experience
 
-### 🏢 AI Product Manager — WCO Global
-**Football Analytics & Edge Computing · 2023 – 2024**
+### 🏢 Product & Technical Lead — WCO Global / Elle Global
+**Football Analytics · Aug 2025 – Apr 2026**
 
-Led product development at the intersection of football analytics and edge computing, building AI-powered tools for performance intelligence at scale.
+Led end-to-end product lifecycle for a multi-camera football analytics system — from PRD authoring through edge hardware deployment.
 
-- Owned end-to-end product roadmap for computer vision-based player tracking systems
-- Designed edge computing deployment architecture for real-time inference pipelines
-- Conducted user research with coaching staff to translate domain expertise into technical specs
-- Wrote and maintained PRDs for core product modules, aligning cross-functional teams
+- Authored PRDs and defined specs for RTSP streaming and AV sync across multi-camera pipeline
+- Coordinated hardware and engineering teams to ship on **Raspberry Pi 5 edge devices**
+- Identified latency bottlenecks via data analysis and drove engineering fixes improving system reliability
+- Managed stakeholder alignment across vendors and internal teams throughout the product lifecycle
 
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square&logo=opencv&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge_AI-4F46E5?style=flat-square&logo=linux&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI_Raspberry_Pi_5-4F46E5?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![PRD Writing](https://img.shields.io/badge/PRD_Writing-6D28D9?style=flat-square&logo=notion&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RTSP](https://img.shields.io/badge/RTSP_Streaming-5B21B6?style=flat-square&logo=ffmpeg&logoColor=white)
 
 ---
 
-### 🏢 Product Manager — Bluestock Fintech
-**Fintech · 2023**
+### 🏢 Software Developer Intern (PM-Adjacent) — Bluestock Fintech
+**Fintech · May – Jun 2025**
 
-Drove product strategy for a fintech investment platform, translating user research and market signals into shipped features.
+Mapped end-to-end customer journeys and drove API prioritization for IPO data flows on a digital fintech platform.
 
-- Managed backlog and sprint planning for core trading and investment features
-- Conducted competitive teardowns to inform feature prioritization decisions
-- Shipped data-driven improvements, measuring impact through retention and engagement metrics
+- Mapped customer journey for IPO data flows; prioritized API requirements with stakeholders delivering **40% faster response times**
+- Built financial insight dashboards using **PostgreSQL and Matplotlib** for end-user analytics
+- Collaborated with engineering to translate user needs into measurable product improvements
 
 ![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Fintech](https://img.shields.io/badge/Fintech-4F46E5?style=flat-square&logo=stripe&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### 🏢 Product Analyst — CodeCore Global
-**Software Development · 2022 – 2023**
+### 🏢 Associate Project Manager Intern — Excelerate
+**Early-Stage Startup · Jan – Feb 2025**
 
-Data-driven product analysis and technical documentation for software development workflows.
+Managed a 6-member cross-functional team in a 0→1 environment with full Agile/Scrum ownership.
 
-- Built analytical frameworks to measure product performance and user engagement
-- Produced technical documentation and process maps for engineering handoffs
-- Supported backlog grooming, sprint retrospectives, and stakeholder reporting
+- Managed **6-member cross-functional team** via Agile/Scrum — daily standups, sprint planning, retrospectives
+- Owned JIRA backlog end-to-end; achieved **100% on-time delivery** across all sprint commitments
+- Aligned team output with stakeholder expectations through structured OKR tracking
 
-![Analytics](https://img.shields.io/badge/Product_Analytics-E97627?style=flat-square&logo=google-analytics&logoColor=white)
-![Documentation](https://img.shields.io/badge/Technical_Docs-000000?style=flat-square&logo=gitbook&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Team Lead](https://img.shields.io/badge/Team_Lead_6_Members-7C3AED?style=flat-square&logo=people&logoColor=white)
 
 ---
 
-### 🏢 Product Intern — Excelerate
-**Early-Stage Startup · 2022**
+### 🏢 AI Product Intern — CodeCore Global
+**AI / Rural Tech · Sep – Dec 2024**
 
-First exposure to product-led development — user research, competitive analysis, and feature documentation in a 0→1 environment.
+Scoped and shipped an AI chatbot for rural communities — from customer discovery through QA and production delivery.
 
-- Conducted user interviews and synthesized findings into product recommendations
-- Assisted in roadmap planning and OKR alignment with the founding team
+- Led customer discovery to identify high-value use cases: agriculture schemes, subsidies, and rural information access
+- Defined feature set, managed design-to-QA delivery for a **fine-tuned DialoGPT** agriculture chatbot
+- Established **perplexity-based success metrics** to measure LLM output quality in production
 
-![User Research](https://img.shields.io/badge/User_Research-7C3AED?style=flat-square&logo=buffer&logoColor=white)
-![Startups](https://img.shields.io/badge/Early_Stage_0→1-4F46E5?style=flat-square&logo=rocket&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logo=huggingface&logoColor=white)
+![DialoGPT](https://img.shields.io/badge/DialoGPT_Fine--tuning-4F46E5?style=flat-square&logo=openai&logoColor=white)
+![User Research](https://img.shields.io/badge/Customer_Discovery-6D28D9?style=flat-square&logo=buffer&logoColor=white)
 
 ---
 
@@ -260,9 +280,10 @@ First exposure to product-led development — user research, competitive analysi
 | 🎓 **NextLeap PM Fellow** | Completed structured PM Fellowship — Learn in Public challenge series |
 | 📊 **Groww Pulsator** | 6,792 reviews processed · NPS +78 · Deployed production LLM app |
 | ⚽ **FootIQ — Flagship** | End-to-end sports AI platform: computer vision + backend + dashboard |
-| 📝 **PM Artifact Library** | 5+ full PRDs · 3+ wireframe kits · 2 case studies · 1 PM Handbook |
+| ⚡ **40% API Speedup** | Delivered at Bluestock Fintech via customer journey mapping & API prioritization |
+| 🎯 **100% On-Time Delivery** | Led 6-member team at Excelerate across all sprint commitments |
+| 📝 **PM Artifact Library** | 5+ full PRDs · 3+ wireframe kits · $4.7B market sizing · 1 PM Handbook |
 | 🔍 **AI Product Teardowns** | VocalLabs.ai · BlinkMoney · Reddit · Make.com — published publicly |
-| 🤖 **Agentic Workflow Builder** | n8n job automation pipeline with LLM backend, running in production |
 
 </div>
 
@@ -272,17 +293,17 @@ First exposure to product-led development — user research, competitive analysi
 
 **Education**
 
-![B.Tech CS](https://img.shields.io/badge/B.Tech-Computer_Science,_Amity_University-4F46E5?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![B.Tech CS](https://img.shields.io/badge/B.Tech-Computer_Science,_Amity_University_(2019–2023)-4F46E5?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 **Fellowship**
 
 ![NextLeap PM Fellowship](https://img.shields.io/badge/NextLeap-PM_Fellowship_Graduate-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)
 
-**Applied AI Practitioner**
+**Courses & Bootcamps**
 
-![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-Applied-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-Applied-7C3AED?style=for-the-badge&logo=database&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-Applied-5B21B6?style=for-the-badge&logo=opencv&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI_(Diffusion_Models)-Coursera-6D28D9?style=for-the-badge&logo=coursera&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace_Transformers-Bootcamp-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -290,14 +311,14 @@ First exposure to product-led development — user research, competitive analysi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=a855f7&icon_color=6741d9&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=a855f7&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayankSinghRaghav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=a855f7&icon_color=6741d9&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSinghRaghav&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=a855f7&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border=7C3AED&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideNums=7C3AED&sideLabels=A855F7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MayankSinghRaghav&theme=tokyonight&border=7C3AED&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7&sideNums=7C3AED&sideLabels=A855F7)](https://git.io/streak-stats)
 
 </div>
 
@@ -307,7 +328,7 @@ First exposure to product-led development — user research, competitive analysi
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=nord&column=7&margin-w=10&margin-h=15&no-bg=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MayankSinghRaghav&theme=nord&column=7&margin-w=10&margin-h=15&no-bg=true&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -317,7 +338,7 @@ First exposure to product-led development — user research, competitive analysi
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=false&border_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankSinghRaghav&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=false&border_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -328,9 +349,9 @@ First exposure to product-led development — user research, competitive analysi
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MayankSinghRaghav/MayankSinghRaghav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MayankSinghRaghav/MayankSinghRaghav/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MayankSinghRaghav/MayankSinghRaghav/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -369,10 +390,10 @@ currently:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://msr-portfolio-iota.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayanksinghraghav/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-6741d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankSinghRaghav)
+[![Gmail](https://img.shields.io/badge/Gmail-mayanksinghraghav2083@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanksinghraghav2083@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank_Singh_Raghav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayanksinghraghav/)
+[![GitHub](https://img.shields.io/badge/GitHub-MayankSinghRaghav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankSinghRaghav)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://msr-portfolio-iota.vercel.app/)
 
 </div>
 
